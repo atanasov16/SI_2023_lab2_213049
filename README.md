@@ -1,6 +1,7 @@
 Atanas Atanasov 213049
 
-2. ![ControlFlowGraph](https://github.com/atanasov16/SI_2023_lab2_213049/assets/116266217/558d8711-4531-42b3-8ed0-750c87cbff6a)
+2. ![ControlFlowGraph](https://github.com/atanasov16/SI_2023_lab2_213049/assets/116266217/69dbdedd-424d-4460-829e-7d517c2051fb)
+
 
 3. Според Control Flow Graph-от, имаме 11 региони, а истиот резултат го добиваме и ако ги броиме предикатните јазли и додадеме еден (10 + 1), што значи дека цикломатската комплексност е 11.
 4. Потребни се 5 тест случаи за да се поминат сите патеки - Every Branch:
